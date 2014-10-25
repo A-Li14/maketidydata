@@ -85,4 +85,22 @@ The complete list of variables of each feature vector is available in 'features.
 ---------------
 
 
+In summary, the modified data set contains the averages of the mean and standard deviation values recorded by a Samsung Galaxy S II accelerometer conditioned separately on subject number and activity. The accelerometer measures the following signals:
 
+tBodyAcc-XYZ
+tGravityAcc-XYZ
+tBodyAccJerk-XYZ
+tBodyGyro-XYZ
+tBodyGyroJerk-XYZ
+tBodyAccMag
+tGravityAccMag
+tBodyAccJerkMag
+tBodyGyroMag
+tBodyGyroJerkMag
+fBodyAcc-XYZ
+fBodyAccJerk-XYZ
+fBodyGyro-XYZ
+fBodyAccMag
+fBodyAccJerkMag
+fBodyGyroMag
+fBodyGyroJerkMag
